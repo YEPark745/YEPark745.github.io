@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "몬트리올개발"
+title                    : "몽개자이너"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YE"
-description              : "몬개자이너."
+description              : "몽개자이너."
 url                      : "https://yepark745.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "YE Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hi 👋 I like adventure and new experiences and I’m unafraid to step out out of comfort zone. I have knowledge of both computer programming (C++, C#, Java, Spring boot, Spring MVC. IDE - Intellij, Eclipse, Visual Studio, PhpStorm) and financial analysis📊. Live in Montreal 🌇
+
+** Love painting🎨, drawing✏️ and running 🏃 ** "
+  location         : "Montreal, CA"
   email            :
   links:
     - label: "Email"
